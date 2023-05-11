@@ -1,4 +1,7 @@
-# Create T3 App
+This is a web app starter using 'Create T3 App' and the new Next13 App Dir
+
+
+# Create T3 App (Next13 APP Dir)
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
